@@ -1,4 +1,8 @@
 ## Hi there 👋
+I’m currently working on a project for my students!
+
+I’m currently learning: getting back to programing after a couple of years concentrating on other things!
+
 
 <!--
 **Yanoboy33/yanoboy33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
